@@ -1,0 +1,38 @@
+:root {
+    --slate300: hsl(212, 45%, 89%);
+    --slate500: hsl(216, 15%, 48%);
+    --slate900: hsl(218, 44%, 22%);
+    --white: #ffffff;
+}
+
+
+body { background-color: var(--slate300); }
+
+.attribution { font-size: 11px; text-align: center; }
+.attribution a { color: hsl(228, 45%, 44%); }
+   
+.card-container {
+    width: 320px;
+    height: 499px;
+    background: #ffffff; 
+    text-align: center; 
+    border-radius: 10px;
+
+}
+.outfit-text{
+    font-family: "Outfit", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-size: 15px;
+    font-style: normal;
+    color: var(--slate500);
+}
+
+.outfit-header{
+    font-family: "Outfit", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-size: 22px;
+    font-style: bold;
+    color: var(--slate900);
+}
