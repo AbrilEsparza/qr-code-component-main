@@ -22,8 +22,8 @@ This is the first challenge of Frontend Mentor
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://abrilesparza.github.io/qr-code-component-main/)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [link](https://abrilesparza.github.io/qr-code-component-main/)
+- Live Site URL: [link](https://your-live-site-url.com)
 
 ## My process
 
